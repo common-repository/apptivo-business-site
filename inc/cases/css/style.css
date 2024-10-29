@@ -1,0 +1,16 @@
+div.message {background-color: #DFF2BF;color: #4F8A10;padding: 10px 10px 10px 32px;margin:15px;}
+div.error {background-color: #FFD4D4;color: #D8000C;padding: 10px 10px 10px 32px;margin:15px;}
+.cases_outfrm{width:440px;display:block;}
+.case_main {font-family: arial, helvetica, sans-serif;font-size: 12px;margin-left: 20px;color: #000;width: 100%;display:inline-block;}
+.case_main .case_label {float: left;width: 48%;}
+.case_main .case_input {float: left;width: 42%;padding-bottom: 10px;}
+#intro_msg{margin-left: 20px;font-size: 12px;font-weight:normal;font-family:arial,helvetica,sans-serif;}
+.case_main .case_label span span {color: red;}
+.submit_btn {float: left;text-align: left;width: 42%;position:relative;}
+.address{float:left;width:200px;}
+.colon {float: right;padding-top: 3px;}
+.txt {font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-weight: normal;line-height: 20px;padding-left: 0px }
+.reg_input{font-family: Arial, Helvetica, sans-serif;font-size: 13px;font-weight: normal; }
+.input_fld{ width: 206px; float: left;}
+label.error{padding-left: 10px;color: red;float:left;width:150px;}
+.case_input select{float:left;}
